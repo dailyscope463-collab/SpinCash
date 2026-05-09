@@ -1,0 +1,2 @@
+# SpinCash
+Earning application 
